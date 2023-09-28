@@ -1,0 +1,274 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.mm {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: -20px;
+    left: 50px;
+    right: 100px;
+    background-color: white;
+    height: 60px;
+    
+}
+
+.pp {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    color: rgb(184, 180, 175);
+}
+
+
+content {
+    width: 100%;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 8, 70);
+    border-radius: 8px;
+    width: 100px;
+    height: 45px;
+}
+
+.hig {
+    padding: 30px;
+    display: flex;
+    gap: 80px;
+}
+
+.par p {
+
+    font-size: 70px;
+    width: 650px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dd p {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.don {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.you img {
+    width: 431px;
+    height: 450px;
+}
+
+.mega {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.you {
+    padding: 20px;
+}
+
+.me img {
+    width: 437px;
+    height: 291px;
+    border-radius: 12px;
+    padding: 0px;
+}
+
+.myimg img {
+    width: 208px;
+    height: 136px;
+    border-radius: 15px;
+}
+
+.myimg {
+    display: flex;
+    gap: 20px;
+}
+
+.she {
+    font-size: 20PX;
+    line-height: 24px;
+    color: rgb(186, 187, 189);
+}
+
+.fat {
+    font-size: 54px;
+    line-height: 62px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.mat {
+    font-size: 18px;
+    line-height: 24px;
+    color: rgb(187, 185, 182);
+}
+
+.pop {
+    display: flex;
+    gap: 100px;
+}
+
+.run {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.home {
+    font-size: 54px;
+    padding: 50px;
+}
+
+.house {
+    font-size: 18px;
+}
+
+.re {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px;
+}
+
+.last img {
+    background-color: rgb(255, 254, 254);
+    padding: 20px;
+
+}
+
+.last {
+    background-color: rgb(255, 253, 253);
+    width: 300px;
+    height: 230px;
+    top: 279px;
+    border-radius: 12px;
+    transition: background-color .5s;
+}
+.last:hover {
+    background-color: rgb(12, 6, 48);
+    opacity: 1;
+}
+
+.de {
+    color: rgb(153, 151, 151);
+    padding: 10px;
+    font-size: 18px;
+}
+
+.van {
+    color: rgb(151, 147, 147);
+    font-size: 13.5px;
+    padding: 10px;
+}
+
+.am {
+    color: rgb(158, 154, 154);
+    font-size: 13.5px;
+    line-height: 17.5px;
+    padding: 10px;
+}
+
+.can {
+    color: rgb(138, 136, 136);
+    width: 300px;
+    height: 230px;
+    top: 279px;
+    border-radius: 12px;
+   
+}
+
+
+
+.if {
+    color: rgb(8, 8, 8);
+    font-size: 13.5px;
+    line-height: 17.5px;
+    padding: 10px;
+}
+
+.win {
+    color: rgb(12, 12, 12);
+
+    font-size: 13.5px;
+    padding: 10px;
+}
+
+.ma {
+    color: black;
+    font-size: 13.5px;
+    line-height: 17.5px;
+    padding: 10px;
+}
+
+.qq {
+    color: rgb(12, 12, 12);
+
+    width: 300px;
+    height: 230px;
+    top: 279px;
+    border-radius: 12px;
+}
+
+.myp {
+    color: rgb(14, 13, 13);
+    font-size: 13.5px;
+    line-height: 17.5px;
+    padding: 10px;
+}
+
+.mya {
+    color: rgb(8, 8, 8);
+    font-size: 13.5px;
+    padding: 10px;
+}
+
+.mo {
+    color: black;
+    font-size: 13.5px;
+    line-height: 17.5px;
+    padding: 10px;
+}
+
+.myfile {
+    display: flex;
+    gap: 150px;
+}
+
+.egy {
+    background-color: rgb(1, 1, 20);
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.egypt {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
